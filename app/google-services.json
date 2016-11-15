@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "179923359149",
+    "firebase_url": "https://push-notification-fireba-78ba8.firebaseio.com",
+    "project_id": "push-notification-fireba-78ba8",
+    "storage_bucket": "push-notification-fireba-78ba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179923359149:android:b0b7a238839ffbc4",
+        "android_client_info": {
+          "package_name": "com.educareappsltd.pushnotificationexampleusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179923359149-j8otquqms60dqeib7vr023736k2nc5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjW04NJjkUDsH-e9-m4JdGMF_3LUNjnLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
